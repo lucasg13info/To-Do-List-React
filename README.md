@@ -26,5 +26,5 @@
 
 <h4>Para ver o app de outras máquinas que estejam na mesma rede: </h4>
 
-` ip da máquina + porta `
-` exemplo: 192.168.0.300:3000`
+<p>` ip da máquina + porta ` </p>
+<p>` exemplo: 192.168.0.300:3000` </p>
